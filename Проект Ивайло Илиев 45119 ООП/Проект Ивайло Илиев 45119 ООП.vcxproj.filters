@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandLineInterpreter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Distributor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P3Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P3Colorful.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P6Colorful.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P6Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P3Grayscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P6Grayscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P3Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P6Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P2Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P5Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P2Grayscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P5Grayscale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P2Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P5Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P1Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P4Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P1Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P4Monochrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="setCopyName.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommandLineInterpreter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Distributor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P3Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P3Colorful.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P6Colorful.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P6Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P3Grayscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P6Grayscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P3Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P6Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P2Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P5Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P2Grayscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P5Grayscale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P2Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P5Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P1Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P4Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P1Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P4Monochrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="setCopyName.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

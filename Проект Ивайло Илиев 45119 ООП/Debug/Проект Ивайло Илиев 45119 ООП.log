@@ -1,0 +1,39 @@
+﻿Build started 8/15/2015 12:30:50 PM.
+     1>Project "C:\Users\Taiblockzero\Documents\Visual Studio 2013\Projects\Проект Ивайло Илиев 45119 ООП\Проект Ивайло Илиев 45119 ООП\Проект Ивайло Илиев 45119 ООП.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Проект Ивайло Илиев 45119 ООП.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ImageType.cpp
+         ImageType.cpp
+     1>c:\users\taiblockzero\documents\visual studio 2013\projects\проект ивайло илиев 45119 ооп\проект ивайло илиев 45119 ооп\imagetype.cpp(219): warning C4244: 'return' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\taiblockzero\documents\visual studio 2013\projects\проект ивайло илиев 45119 ооп\проект ивайло илиев 45119 ооп\imagetype.cpp(319): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\taiblockzero\documents\visual studio 2013\projects\проект ивайло илиев 45119 ооп\проект ивайло илиев 45119 ооп\imagetype.cpp(393): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Taiblockzero\Documents\Visual Studio 2013\Projects\Проект Ивайло Илиев 45119 ООП\Debug\Proekt Ivailo Iliev 45119 OOP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Taiblockzero\Documents\Visual Studio 2013\Projects\Проект Ивайло Илиев 45119 ООП\Debug\Proekt Ivailo Iliev 45119 OOP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Taiblockzero\Documents\Visual Studio 2013\Projects\Проект Ивайло Илиев 45119 ООП\Debug\Proekt Ivailo Iliev 45119 OOP.lib" /MACHINE:X86 Debug\CommandLineInterpreter.obj
+         Debug\Distributor.obj
+         Debug\ImageType.obj
+         Debug\main.obj
+         Debug\P1Image.obj
+         Debug\P1Monochrome.obj
+         Debug\P2Grayscale.obj
+         Debug\P2Image.obj
+         Debug\P2Monochrome.obj
+         Debug\P3Colorful.obj
+         Debug\P3Grayscale.obj
+         Debug\P3Image.obj
+         Debug\P3Monochrome.obj
+         Debug\P4Image.obj
+         Debug\P4Monochrome.obj
+         Debug\P5Grayscale.obj
+         Debug\P5Image.obj
+         Debug\P5Monochrome.obj
+         Debug\P6Colorful.obj
+         Debug\P6Grayscale.obj
+         Debug\P6Image.obj
+         Debug\P6Monochrome.obj
+         Debug\setCopyName.obj
+         Проект Ивайло Илиев 45119 ООП.vcxproj -> C:\Users\Taiblockzero\Documents\Visual Studio 2013\Projects\Проект Ивайло Илиев 45119 ООП\Debug\Proekt Ivailo Iliev 45119 OOP.exe
+     1>Done Building Project "C:\Users\Taiblockzero\Documents\Visual Studio 2013\Projects\Проект Ивайло Илиев 45119 ООП\Проект Ивайло Илиев 45119 ООП\Проект Ивайло Илиев 45119 ООП.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.48
